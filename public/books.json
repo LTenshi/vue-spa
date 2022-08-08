@@ -1,0 +1,152 @@
+[
+  {
+    "id": "0",
+    "coverUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.penguin.com.au%2Fcovers%2Foriginal%2F9780141956794.jpg&f=1&nofb=1",
+    "name": "In Search of Lost Time",
+    "author": "Marcel Proust",
+    "year": "1913",
+    "rating": "9.8",
+    "links": [
+      { "name": "Amazon", "url": "https://www.amazon.co.uk" },
+      { "name": "iBooks", "url": "https://www.apple.com/uk/apple-books/" },
+      { "name": "Play Store", "url": "https://play.google.com/store/books" }
+    ],
+    "details": "**In Search of Lost Time** (French: À la recherche du temps perdu), first translated into English as Remembrance of Things Past, and sometimes referred to in French as La Recherche (The Search), is a novel in seven volumes by French author Marcel Proust.This early 20th-century work is his most prominent, known both for its length and its theme of involuntary memory."
+  },
+  {
+    "id": "1",
+    "coverUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuploads7.wikiart.org%2Fimages%2Fhonore-daumier%2Fdon-quixote-and-sancho-panza-going-to-the-wedding-gamaches.jpg&f=1&nofb=1",
+    "name": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "year": "1605",
+    "rating": "9.7",
+    "links": [
+      { "name": "Amazon", "url": "https://www.amazon.co.uk" }
+    ],
+    "details": "**Don Quixote** is a Spanish epic novel by Miguel de Cervantes. Originally published in two parts, in 1605 and 1615, its full title is The Ingenious Gentleman Don Quixote of La Mancha or, in Spanish, El ingenioso hidalgo don Quijote de la Mancha."
+  },
+  {
+    "id": "2",
+    "coverUrl": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fblogs.harvard.edu%2Fhoughtonmodern%2Ffiles%2F2018%2F09%2FBlog-Ulysses-Cover.jpg&f=1&nofb=1",
+    "name": "Ulysses",
+    "author": "James Joyce",
+    "year": "1922",
+    "rating": "9.5",
+    "links": [
+      { "name": "Amazon", "url": "https://www.amazon.co.uk" },
+      { "name": "iBooks", "url": "https://www.apple.com/uk/apple-books/" },
+      { "name": "Play Store", "url": "https://play.google.com/store/books" }
+    ],
+    "details": "**Ulysses** is a modernist novel by Irish writer James Joyce. It was first serialized in parts in the American journal The Little Review from March 1918 to December 1920 and then published in its entirety in Paris by Sylvia Beach on 2 February 1922, Joyce's 40th birthday. It is considered one of the most important works of modernist literature and has been called \"a demonstration and summation of the entire movement.\""
+  },
+  {
+    "id": "3",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg",
+    "name": "The Great Gatsby",
+    "author": "F.Scott Fitzgerald",
+    "year": "1925",
+    "rating": "9.4",
+    "links": [
+      { "name": "Amazon", "url": "https://www.amazon.co.uk" },
+      { "name": "iBooks", "url": "https://www.apple.com/uk/apple-books/" }
+    ],
+    "details": "**The Great Gatsby** is a 1925 novel by American writer F. Scott Fitzgerald. Set in the Jazz Age on Long Island, near New York City, the novel depicts first-person narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby and Gatsby's obsession to reunite with his former lover, Daisy Buchanan."
+  },
+  {
+    "id": "4",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Moby-Dick_FE_title_page.jpg/330px-Moby-Dick_FE_title_page.jpg",
+    "name": "Moby Dick",
+    "author": "Herman Melville",
+    "year": "1851",
+    "rating": "9.3",
+    "links": [
+      { "name": "Amazon", "url": "https://www.amazon.co.uk" }
+    ],
+    "details": "**Don Quixote** is a Spanish epic novel by Miguel de Cervantes. Originally published in two parts, in 1605 and 1615, its full title is The Ingenious Gentleman Don Quixote of La Mancha or, in Spanish, El ingenioso hidalgo don Quijote de la Mancha."
+  },
+  {
+    "id": "5",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/0/08/Leviathan_Wakes.jpg",
+    "name": "Leviathan Wakes",
+    "author": "James S.A. Corey",
+    "year": "2011",
+    "rating": "9.2",
+    "links": [
+      { "name": "Amazon", "url": "https://www.amazon.co.uk" }
+    ],
+    "details": "**Leviathan Wakes** is a science fiction novel by James S. A. Corey, the pen name of American writers Daniel Abraham and Ty Franck. It is the first book in the Expanse series, followed by Caliban's War (2012), Abaddon's Gate (2013) and six other novels. Leviathan Wakes was nominated for the 2012 Hugo Award for Best Novel and the 2012 Locus Award for Best Science Fiction Novel. The novel was adapted for television in 2015 as the first season-and-a-half of The Expanse by Syfy. Five short stories that take place before, during, or after Leviathan Wakes were published between 2011 and 2019."
+  },
+
+  {
+    "id": "6",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/15/Calibans_War.jpg",
+    "name": "Caliban's War",
+    "author": "James S.A. Corey",
+    "year": "2012",
+    "rating": "9.1",
+    "links": [
+      { "name": "Amazon", "url": "https://www.amazon.co.uk" }
+    ],
+    "details": "**Caliban's War** is a 2012 science fiction novel by James S. A. Corey (pen name of Daniel Abraham and Ty Franck). It is about a conflict in the Solar System that involves Earth, Mars, and the Asteroid Belt (colonies of people living on asteroids, referred to as \"Belters\")."
+  },
+  {
+    "id": "7",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/6/6b/James_S.A._Corey_-_Abaddon%27s_Gate.jpeg",
+    "name": "Abaddon Gate",
+    "author": "James S.A. Corey",
+    "year": "2013",
+    "rating": "9.0",
+    "links": [
+      { "name": "Amazon", "url": "https://www.amazon.co.uk" }
+    ],
+    "details": "**Abaddon's Gate** is a science fiction novel by James S. A. Corey (pen name of Daniel Abraham and Ty Franck). It is about a conflict in the Solar System that involves Earth, Mars, and the Asteroid Belt (colonies of people living on asteroids, referred to as \"Belters\")."
+  },
+  {
+    "id": "8",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/0/08/Leviathan_Wakes.jpg",
+    "name": "Leviathan Wakes",
+    "author": "James S.A. Corey",
+    "year": "2011",
+    "rating": "9.2",
+    "links": [
+      { "name": "Amazon", "url": "https://www.amazon.co.uk" }
+    ],
+    "details": "**Leviathan Wakes** is a science fiction novel by James S. A. Corey, the pen name of American writers Daniel Abraham and Ty Franck. It is the first book in the Expanse series, followed by Caliban's War (2012), Abaddon's Gate (2013) and six other novels. Leviathan Wakes was nominated for the 2012 Hugo Award for Best Novel and the 2012 Locus Award for Best Science Fiction Novel. The novel was adapted for television in 2015 as the first season-and-a-half of The Expanse by Syfy. Five short stories that take place before, during, or after Leviathan Wakes were published between 2011 and 2019."
+  },
+  {
+    "id": "9",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/b/be/Cibola_Burn.jpg",
+    "name": "Cibola Burn",
+    "author": "James S.A. Corey",
+    "year": "2014",
+    "rating": "8.9",
+    "links": [
+      { "name": "Amazon", "url": "https://www.amazon.co.uk" }
+    ],
+    "details": "**Cibola Burn** is a 2014 science fiction novel by James S. A. Corey (pen name of Daniel Abraham and Ty Franck) and the fourth book in The Expanse series. It follows the crew of the Rocinante as they join the flood of humanity out into the galaxy, using the gates built by the ancient civilization that also produced the protomolecule."
+  },
+  {
+    "id": "10",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/6/60/Nemesis_Games.jpg",
+    "name": "Nemesis Games",
+    "author": "James S.A. Corey",
+    "year": "2015",
+    "rating": "8.8",
+    "links": [
+      { "name": "Amazon", "url": "https://www.amazon.co.uk" }
+    ],
+    "details": "**Nemesis Games** is a 2015 science fiction novel by James S. A. Corey, the pen name of Daniel Abraham and Ty Franck, and the fifth book in their The Expanse series. It is the sequel to Cibola Burn. "
+  },
+  {
+    "id": "11",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/Babylons_Ashes.jpg",
+    "name": "Babylon's Ashes",
+    "author": "James S.A. Corey",
+    "year": "2011",
+    "rating": "8.7",
+    "links": [
+      { "name": "Amazon", "url": "https://www.amazon.co.uk" }
+    ],
+    "details": "**Babylon's Ashes** is a science fiction novel by James S. A. Corey, the pen name of Daniel Abraham and Ty Franck, and the sixth book in their The Expanse series."
+  }
+]

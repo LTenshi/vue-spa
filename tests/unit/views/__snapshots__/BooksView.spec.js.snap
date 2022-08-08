@@ -1,0 +1,508 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Books View Should match the snapshot 1`] = `
+<div>
+  <h1>
+    Books
+  </h1>
+  <table
+    id="bookbrowser"
+  >
+    <thead>
+      <h3>
+        Most popular Books of All time
+      </h3>
+    </thead>
+    <tbody
+      class="rowContainer"
+    >
+      <tr>
+        
+        <th
+          class="tHeader"
+          style="width: 60%; text-align: initial;"
+        >
+          TITLE
+        </th>
+        <th
+          class="tHeader"
+          style="width: 10%;"
+        >
+          PUBLISHED
+        </th>
+        <th
+          class="tHeader"
+          style="width: 10%;"
+        >
+          RATING
+        </th>
+        <th
+          class="tHeader"
+          style="width: 10%;"
+        >
+          BUY ON
+        </th>
+        
+      </tr>
+      
+      
+      <tr>
+        <tr>
+          <th
+            class="imageHeader"
+          >
+            <img
+              class="imageContainer"
+              src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.penguin.com.au%2Fcovers%2Foriginal%2F9780141956794.jpg&f=1&nofb=1"
+            />
+          </th>
+          <th
+            class="bookName"
+          >
+            <div>
+              In Search of Lost Time
+            </div>
+            <div
+              class="bookAuthor"
+            >
+              Marcel Proust
+            </div>
+          </th>
+        </tr>
+        <th
+          class="fontStyle"
+        >
+          1913
+        </th>
+        <th
+          class="fontStyle"
+        >
+          9.8/10 
+        </th>
+        <th>
+          
+          <a
+            class="bookLink"
+            href="https://www.amazon.co.uk"
+          >
+            Amazon
+            <br />
+          </a>
+          <a
+            class="bookLink"
+            href="https://www.apple.com/uk/apple-books/"
+          >
+            iBooks
+            <br />
+          </a>
+          <a
+            class="bookLink"
+            href="https://play.google.com/store/books"
+          >
+            Play Store
+            <br />
+          </a>
+          
+        </th>
+      </tr>
+      <!--v-if-->
+      
+      
+      <tr>
+        <tr>
+          <th
+            class="imageHeader"
+          >
+            <img
+              class="imageContainer"
+              src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuploads7.wikiart.org%2Fimages%2Fhonore-daumier%2Fdon-quixote-and-sancho-panza-going-to-the-wedding-gamaches.jpg&f=1&nofb=1"
+            />
+          </th>
+          <th
+            class="bookName"
+          >
+            <div>
+              Don Quixote
+            </div>
+            <div
+              class="bookAuthor"
+            >
+              Miguel de Cervantes
+            </div>
+          </th>
+        </tr>
+        <th
+          class="fontStyle"
+        >
+          1605
+        </th>
+        <th
+          class="fontStyle"
+        >
+          9.7/10 
+        </th>
+        <th>
+          
+          <a
+            class="bookLink"
+            href="https://www.amazon.co.uk"
+          >
+            Amazon
+            <br />
+          </a>
+          
+        </th>
+      </tr>
+      <!--v-if-->
+      
+      
+      <tr>
+        <tr>
+          <th
+            class="imageHeader"
+          >
+            <img
+              class="imageContainer"
+              src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fblogs.harvard.edu%2Fhoughtonmodern%2Ffiles%2F2018%2F09%2FBlog-Ulysses-Cover.jpg&f=1&nofb=1"
+            />
+          </th>
+          <th
+            class="bookName"
+          >
+            <div>
+              Ulysses
+            </div>
+            <div
+              class="bookAuthor"
+            >
+              James Joyce
+            </div>
+          </th>
+        </tr>
+        <th
+          class="fontStyle"
+        >
+          1922
+        </th>
+        <th
+          class="fontStyle"
+        >
+          9.5/10 
+        </th>
+        <th>
+          
+          <a
+            class="bookLink"
+            href="https://www.amazon.co.uk"
+          >
+            Amazon
+            <br />
+          </a>
+          <a
+            class="bookLink"
+            href="https://www.apple.com/uk/apple-books/"
+          >
+            iBooks
+            <br />
+          </a>
+          <a
+            class="bookLink"
+            href="https://play.google.com/store/books"
+          >
+            Play Store
+            <br />
+          </a>
+          
+        </th>
+      </tr>
+      <!--v-if-->
+      
+      
+      <tr>
+        <tr>
+          <th
+            class="imageHeader"
+          >
+            <img
+              class="imageContainer"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg"
+            />
+          </th>
+          <th
+            class="bookName"
+          >
+            <div>
+              The Great Gatsby
+            </div>
+            <div
+              class="bookAuthor"
+            >
+              F.Scott Fitzgerald
+            </div>
+          </th>
+        </tr>
+        <th
+          class="fontStyle"
+        >
+          1925
+        </th>
+        <th
+          class="fontStyle"
+        >
+          9.4/10 
+        </th>
+        <th>
+          
+          <a
+            class="bookLink"
+            href="https://www.amazon.co.uk"
+          >
+            Amazon
+            <br />
+          </a>
+          <a
+            class="bookLink"
+            href="https://www.apple.com/uk/apple-books/"
+          >
+            iBooks
+            <br />
+          </a>
+          
+        </th>
+      </tr>
+      <!--v-if-->
+      
+      
+      <tr>
+        <tr>
+          <th
+            class="imageHeader"
+          >
+            <img
+              class="imageContainer"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Moby-Dick_FE_title_page.jpg/330px-Moby-Dick_FE_title_page.jpg"
+            />
+          </th>
+          <th
+            class="bookName"
+          >
+            <div>
+              Moby Dick
+            </div>
+            <div
+              class="bookAuthor"
+            >
+              Herman Melville
+            </div>
+          </th>
+        </tr>
+        <th
+          class="fontStyle"
+        >
+          1851
+        </th>
+        <th
+          class="fontStyle"
+        >
+          9.3/10 
+        </th>
+        <th>
+          
+          <a
+            class="bookLink"
+            href="https://www.amazon.co.uk"
+          >
+            Amazon
+            <br />
+          </a>
+          
+        </th>
+      </tr>
+      <!--v-if-->
+      
+      
+    </tbody>
+    <tfoot>
+      <th
+        class="container"
+        colspan="4"
+      >
+        <button
+          disabled=""
+          style="color: lightgrey; cursor: unset;"
+        >
+          ❮
+        </button>
+         Page 1 of 3 
+        <button>
+          ❯
+        </button>
+      </th>
+    </tfoot>
+  </table>
+</div>
+`;
+
+exports[`Books View Should match the snapshot: 2 moved forward 1`] = `
+<div>
+  <h1>
+    Books
+  </h1>
+  <table
+    id="bookbrowser"
+  >
+    <thead>
+      <h3>
+        Most popular Books of All time
+      </h3>
+    </thead>
+    <tbody
+      class="rowContainer"
+    >
+      <tr>
+        
+        <th
+          class="tHeader"
+          style="width: 60%; text-align: initial;"
+        >
+          TITLE
+        </th>
+        <th
+          class="tHeader"
+          style="width: 10%;"
+        >
+          PUBLISHED
+        </th>
+        <th
+          class="tHeader"
+          style="width: 10%;"
+        >
+          RATING
+        </th>
+        <th
+          class="tHeader"
+          style="width: 10%;"
+        >
+          BUY ON
+        </th>
+        
+      </tr>
+      
+      
+      <tr>
+        <tr>
+          <th
+            class="imageHeader"
+          >
+            <img
+              class="imageContainer"
+              src="https://upload.wikimedia.org/wikipedia/en/6/60/Nemesis_Games.jpg"
+            />
+          </th>
+          <th
+            class="bookName"
+          >
+            <div>
+              Nemesis Games
+            </div>
+            <div
+              class="bookAuthor"
+            >
+              James S.A. Corey
+            </div>
+          </th>
+        </tr>
+        <th
+          class="fontStyle"
+        >
+          2015
+        </th>
+        <th
+          class="fontStyle"
+        >
+          8.8/10 
+        </th>
+        <th>
+          
+          <a
+            class="bookLink"
+            href="https://www.amazon.co.uk"
+          >
+            Amazon
+            <br />
+          </a>
+          
+        </th>
+      </tr>
+      <!--v-if-->
+      
+      
+      <tr>
+        <tr>
+          <th
+            class="imageHeader"
+          >
+            <img
+              class="imageContainer"
+              src="https://upload.wikimedia.org/wikipedia/en/6/68/Babylons_Ashes.jpg"
+            />
+          </th>
+          <th
+            class="bookName"
+          >
+            <div>
+              Babylon's Ashes
+            </div>
+            <div
+              class="bookAuthor"
+            >
+              James S.A. Corey
+            </div>
+          </th>
+        </tr>
+        <th
+          class="fontStyle"
+        >
+          2011
+        </th>
+        <th
+          class="fontStyle"
+        >
+          8.7/10 
+        </th>
+        <th>
+          
+          <a
+            class="bookLink"
+            href="https://www.amazon.co.uk"
+          >
+            Amazon
+            <br />
+          </a>
+          
+        </th>
+      </tr>
+      <!--v-if-->
+      
+      
+    </tbody>
+    <tfoot>
+      <th
+        class="container"
+        colspan="4"
+      >
+        <button>
+          ❮
+        </button>
+         Page 3 of 3 
+        <button
+          disabled=""
+          style="color: lightgrey; cursor: unset;"
+        >
+          ❯
+        </button>
+      </th>
+    </tfoot>
+  </table>
+</div>
+`;

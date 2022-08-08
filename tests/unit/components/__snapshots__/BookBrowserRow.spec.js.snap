@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Book Browser Cover Should match the snapshot 1`] = `
+<div
+  data-v-app=""
+>
+  
+  <tr>
+    <tr>
+      <th
+        class="imageHeader"
+      >
+        <img
+          class="imageContainer"
+          src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.penguin.com.au%2Fcovers%2Foriginal%2F9780141956794.jpg&f=1&nofb=1"
+        />
+      </th>
+      <th
+        class="bookName"
+      >
+        <div>
+          In Search of Lost Time
+        </div>
+        <div
+          class="bookAuthor"
+        >
+          Marcel Proust
+        </div>
+      </th>
+    </tr>
+    <th
+      class="fontStyle"
+    >
+      1913
+    </th>
+    <th
+      class="fontStyle"
+    >
+      9.8/10 
+    </th>
+    <th>
+      
+      <a
+        class="bookLink"
+        href="https://www.amazon.co.uk"
+      >
+        Amazon
+        <br />
+      </a>
+      <a
+        class="bookLink"
+        href="https://www.apple.com/uk/apple-books/"
+      >
+        iBooks
+        <br />
+      </a>
+      <a
+        class="bookLink"
+        href="https://play.google.com/store/books"
+      >
+        Play Store
+        <br />
+      </a>
+      
+    </th>
+  </tr>
+  <!--v-if-->
+  
+</div>
+`;
+
+exports[`Book Browser Cover Should match the snapshot: BookBrowserRowExpanded 1`] = `
+<div
+  data-v-app=""
+>
+  
+  <tr>
+    <tr>
+      <th
+        class="imageHeader"
+      >
+        <img
+          class="imageContainer"
+          src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.penguin.com.au%2Fcovers%2Foriginal%2F9780141956794.jpg&f=1&nofb=1"
+        />
+      </th>
+      <th
+        class="bookName"
+      >
+        <div>
+          In Search of Lost Time
+        </div>
+        <div
+          class="bookAuthor"
+        >
+          Marcel Proust
+        </div>
+      </th>
+    </tr>
+    <th
+      class="fontStyle"
+    >
+      1913
+    </th>
+    <th
+      class="fontStyle"
+    >
+      9.8/10 
+    </th>
+    <th>
+      
+      <a
+        class="bookLink"
+        href="https://www.amazon.co.uk"
+      >
+        Amazon
+        <br />
+      </a>
+      <a
+        class="bookLink"
+        href="https://www.apple.com/uk/apple-books/"
+      >
+        iBooks
+        <br />
+      </a>
+      <a
+        class="bookLink"
+        href="https://play.google.com/store/books"
+      >
+        Play Store
+        <br />
+      </a>
+      
+    </th>
+  </tr>
+  <th
+    class="detailsPanel"
+    colspan="4"
+  >
+    <p>
+      <strong>
+        In Search of Lost Time
+      </strong>
+       (French: À la recherche du temps perdu), first translated into English as Remembrance of Things Past, and sometimes referred to in French as La Recherche (The Search), is a novel in seven volumes by French author Marcel Proust.This early 20th-century work is his most prominent, known both for its length and its theme of involuntary memory.
+    </p>
+  </th>
+  
+</div>
+`;

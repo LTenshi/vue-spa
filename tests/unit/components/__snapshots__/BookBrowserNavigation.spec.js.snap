@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Book Browser Navigation Should match the snapshot 1`] = `
+<th
+  class="container"
+  colspan="4"
+>
+  <button>
+    ❮
+  </button>
+   Page 3 of 3 
+  <button
+    disabled=""
+    style="color: lightgrey; cursor: unset;"
+  >
+    ❯
+  </button>
+</th>
+`;

@@ -1,0 +1,177 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Book Browser Should match the snapshot 1`] = `
+<table
+  id="bookbrowser"
+>
+  <thead>
+    <h3>
+      Most popular Books of All time
+    </h3>
+  </thead>
+  <tbody
+    class="rowContainer"
+  >
+    <tr>
+      
+      <th
+        class="tHeader"
+        style="width: 60%; text-align: initial;"
+      >
+        TITLE
+      </th>
+      <th
+        class="tHeader"
+        style="width: 10%;"
+      >
+        PUBLISHED
+      </th>
+      <th
+        class="tHeader"
+        style="width: 10%;"
+      >
+        RATING
+      </th>
+      <th
+        class="tHeader"
+        style="width: 10%;"
+      >
+        BUY ON
+      </th>
+      
+    </tr>
+    
+    
+    <tr>
+      <tr>
+        <th
+          class="imageHeader"
+        >
+          <img
+            class="imageContainer"
+            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.penguin.com.au%2Fcovers%2Foriginal%2F9780141956794.jpg&f=1&nofb=1"
+          />
+        </th>
+        <th
+          class="bookName"
+        >
+          <div>
+            In Search of Lost Time
+          </div>
+          <div
+            class="bookAuthor"
+          >
+            Marcel Proust
+          </div>
+        </th>
+      </tr>
+      <th
+        class="fontStyle"
+      >
+        1913
+      </th>
+      <th
+        class="fontStyle"
+      >
+        9.8/10 
+      </th>
+      <th>
+        
+        <a
+          class="bookLink"
+          href="https://www.amazon.co.uk"
+        >
+          Amazon
+          <br />
+        </a>
+        <a
+          class="bookLink"
+          href="https://www.apple.com/uk/apple-books/"
+        >
+          iBooks
+          <br />
+        </a>
+        <a
+          class="bookLink"
+          href="https://play.google.com/store/books"
+        >
+          Play Store
+          <br />
+        </a>
+        
+      </th>
+    </tr>
+    <!--v-if-->
+    
+    
+    <tr>
+      <tr>
+        <th
+          class="imageHeader"
+        >
+          <img
+            class="imageContainer"
+            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuploads7.wikiart.org%2Fimages%2Fhonore-daumier%2Fdon-quixote-and-sancho-panza-going-to-the-wedding-gamaches.jpg&f=1&nofb=1"
+          />
+        </th>
+        <th
+          class="bookName"
+        >
+          <div>
+            Don Quixote
+          </div>
+          <div
+            class="bookAuthor"
+          >
+            Miguel de Cervantes
+          </div>
+        </th>
+      </tr>
+      <th
+        class="fontStyle"
+      >
+        1605
+      </th>
+      <th
+        class="fontStyle"
+      >
+        9.7/10 
+      </th>
+      <th>
+        
+        <a
+          class="bookLink"
+          href="https://www.amazon.co.uk"
+        >
+          Amazon
+          <br />
+        </a>
+        
+      </th>
+    </tr>
+    <!--v-if-->
+    
+    
+  </tbody>
+  <tfoot>
+    <th
+      class="container"
+      colspan="4"
+    >
+      <button
+        disabled=""
+        style="color: lightgrey; cursor: unset;"
+      >
+        ❮
+      </button>
+       Page 1 of 1 
+      <button
+        disabled=""
+        style="color: lightgrey; cursor: unset;"
+      >
+        ❯
+      </button>
+    </th>
+  </tfoot>
+</table>
+`;
