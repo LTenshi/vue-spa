@@ -1,12 +1,13 @@
 <template>
   <div id="#app">
     <div id="navbanner">
-      <h1 style="padding-bottom: 0px; margin-bottom: 0px">Vue.js SPA</h1>
+      <h1 style="padding-bottom: 0px; margin-bottom: 0px">Hello, this is an example of an SPA I have made.</h1>
+      <h3 style="margin-top: 0px">This app is made without the major use of 3rd party libraries such as Vuetify</h3>
       <router-link to="/">Home</router-link>
       <router-link to="/books">Books</router-link>
     </div>
     <router-view id="routerview"></router-view>
-    <footer>Made by Lukasz Pawlak for the Reedsy Technical Test</footer>
+    <footer>Made by <a href="https://github.com/LTenshi">Lukasz Pawlak</a></footer>
   </div>
 </template>
 
@@ -25,6 +26,7 @@ html,body {
 #app {
   padding-left: 20px;
   padding-right: 20px;
+  padding-bottom: 10px;
 }
 
 #navbanner, #routerview, footer {

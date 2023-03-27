@@ -1,5 +1,6 @@
 {
-  "name": "reedsyspa",
+  "name": "vue-spa-example",
+  "author": "Lukasz Pawlak @ https://github.com/LTenshi",
   "version": "0.1.0",
   "private": true,
   "scripts": {
